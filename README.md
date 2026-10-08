@@ -3,10 +3,7 @@
 </p>
 <h3 align="center">Why buy, when you can borrow?</h3>
 
-You need a wrench for one Saturday afternoon. Buying one costs $25 and then it lives in your closet forever. Someone on campus has one - and they can borrow it to you for **$2 a day**.
-<p align="center">
-<i>Built at <b>PivotHacks26</b>.</i>
-</p>
+You need a wrench for one Saturday afternoon. Buying one costs $25 and then it lives in your closet forever. Someone on campus has one, and they can lend it to you for **$2 a day**.
 
 ## Pics
 
